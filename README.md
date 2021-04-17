@@ -1,6 +1,7 @@
 # __Hi, I’m @aarondalao__ 👋 
 ## 👀 I’m interested in 
-web development and generally making things work
+web/software development and generally making things work with ease and precision.
+learning everyday, one step at a time. 
 
 ## 🌱 I’m currently learning 
 
@@ -10,15 +11,20 @@ web development and generally making things work
 - Javascript
 - HTML 
 - CSS/SCSS
+- and of course, Git 
 
 Also tried:
-- Python
+- Python (Django)
 - C++ (mainly for Arduino Projects)
+- PHP
+- MySQL (PHPMyAdmin)
+
 
 ## 💞️ I’m looking to collaborate on ...
 
 ## 📫 How to reach me 
 aaron.dalao@gmail.com
+www.linkedin.com/in/aaron-john-dave-garcia-dalao/
 
 <!---
 aarondalao/aarondalao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

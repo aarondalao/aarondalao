@@ -1,6 +1,6 @@
 # __Hi, I’m @aarondalao__ 👋 
 ## 👀 I’m interested in 
-web/software development and generally making things work with ease and precision.
+web/software development and generally making things work.
 learning everyday, one step at a time. 
 
 ## 🌱 I’m currently learning 

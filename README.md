@@ -11,7 +11,10 @@ learning everyday, one step at a time.
 - Javascript
 - HTML 
 - CSS/SCSS
+- Typescript
 - and of course, Git 
+
+Aiming to get an AWS Cert before this year ends
 
 Also tried:
 - Python (Django)

@@ -5,8 +5,8 @@ learning everyday, one step at a time.
 
 ## 🌱 I’m currently learning 
 
-- Angular 11 | React
-- C# (more like a refresher to jog down my memory)
+- Angular 11 | React 
+- C# 
 - PostgreSQL
 - Javascript
 - HTML 

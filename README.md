@@ -1,8 +1,9 @@
 # __Hi, I’m @aarondalao__ 👋 
 ## 👀 I’m interested in 
 web/software development and generally making things work.
-learning everyday, one step at a time. 
+learning every day, one step at a time. 
 
+## Waka time Metrics
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 

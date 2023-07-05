@@ -3,15 +3,17 @@
 web/software development and generally making things work.
 learning everyday, one step at a time. 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 🌱 I’m currently learning 
 
 - Angular 11 | React 
-- C# 
-- PostgreSQL
-- Javascript
+- C#| .Net 7
+- PostgreSQL | MS SQL | SQLite
+- Javascript | Typescript
 - HTML 
 - CSS/SCSS
-- Typescript
 - and of course, Git 
 
 

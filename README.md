@@ -5,6 +5,8 @@ learning every day, one step at a time.
 
 ## Waka time Metrics
 <!--START_SECTION:waka-->
+
+Wakatime
 <!--END_SECTION:waka-->
 
 ## 🌱 I’m currently learning 

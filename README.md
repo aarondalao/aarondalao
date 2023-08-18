@@ -7,20 +7,20 @@ learning every day, one step at a time.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 April 2022 - To: 15 August 2023
+From: 05 April 2022 - To: 17 August 2023
 
-Total Time: 97 hrs 41 mins
+Total Time: 100 hrs 7 mins
 
-TypeScript   40 hrs 3 mins   ██████████▒░░░░░░░░░░░░░░   41.01 %
-C#           28 hrs 5 mins   ███████▒░░░░░░░░░░░░░░░░░   28.77 %
-Text         22 hrs 35 mins  █████▓░░░░░░░░░░░░░░░░░░░   23.13 %
-JavaScript   2 hrs 59 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
-Markdown     1 hr 10 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-CSS          1 hr 1 min      ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-Other        46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-JSON         25 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+TypeScript   40 hrs 3 mins   ██████████░░░░░░░░░░░░░░░   40.02 %
+C#           28 hrs 5 mins   ███████░░░░░░░░░░░░░░░░░░   28.07 %
+Text         25 hrs 1 min    ██████▒░░░░░░░░░░░░░░░░░░   25.00 %
+JavaScript   2 hrs 59 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+Markdown     1 hr 10 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+CSS          1 hr 1 min      ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Other        46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+JSON         25 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 HTML         14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-XML          10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+XML          10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->

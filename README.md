@@ -7,20 +7,20 @@ learning every day, one step at a time.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 April 2022 - To: 25 February 2024
+From: 05 April 2022 - To: 26 February 2024
 
-Total Time: 284 hrs 59 mins
+Total Time: 286 hrs 45 mins
 
-TypeScript            85 hrs 34 mins  ███████▓░░░░░░░░░░░░░░░░░   30.03 %
-C#                    72 hrs 8 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.31 %
-Text                  49 hrs 26 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.35 %
-Python                22 hrs 13 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
-JavaScript            21 hrs 31 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
-Markdown              8 hrs 23 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
-JSON                  7 hrs 28 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-CSS                   4 hrs 7 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-Dart                  3 hrs 6 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-HTML                  2 hrs 49 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+TypeScript            85 hrs 34 mins  ███████▒░░░░░░░░░░░░░░░░░   29.84 %
+C#                    73 hrs 23 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.60 %
+Text                  49 hrs 26 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.24 %
+Python                22 hrs 13 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
+JavaScript            21 hrs 31 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
+Markdown              8 hrs 23 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+JSON                  7 hrs 44 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+CSS                   4 hrs 7 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Dart                  3 hrs 6 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+HTML                  3 hrs 3 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 ```
 
 <!--END_SECTION:waka-->

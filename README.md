@@ -7,7 +7,7 @@ learning every day, one step at a time.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 April 2022 - To: 05 June 2024
+From: 05 April 2022 - To: 06 June 2024
 
 Total Time: 327 hrs 36 mins
 
